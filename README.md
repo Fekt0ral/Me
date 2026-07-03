@@ -10,7 +10,7 @@
 
 *   **Языки программирования:** Python, SQL (PostgreSQL, MySQL)
 *   **Бэкенд-разработка:** FastAPI, Asyncio, Aiohttp, Aiogram, Pydantic, REST API, Websocket, Requests
-*   **Data Engineering & Data Science:** Apache Airflow, DWH, Pandas, NumPy, Математическая статистика, Визуализация данных (Matplotlib, Seaborn, Plotly)[cite: 1]
+*   **Data Engineering & Data Science:** Apache Airflow, DWH, Pandas, NumPy, Математическая статистика, Визуализация данных (Matplotlib, Seaborn, Plotly)
 *   **Базы данных и ORM:** PostgreSQL, MySQL, Redis, SQLAlchemy, Alembic
 *   **DevOps & Инструменты:** Docker, Docker-compose, Linux, Git, Swagger
 
