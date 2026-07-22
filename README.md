@@ -34,7 +34,7 @@
 *   Профессиональная сертификация **«Наука о данных IBM»** (IBM Data Science)
 *   Курс **«Машинное Обучение в Python»** (Stepik, ML)
 *   Сертификации: **[Advanced SQL](./certificates/Kaggle_Advanced_SQL.png)** (Kaggle); **[Интерактивный тренажер по SQL](./certificates/Stepik_ДВФУ_SQL.pdf)** (ДВФУ);
-                  **[Геймдев](./certificates/Gamedev/)** (ЦК МГТУ им. Н.Э.Баумана); **[1С Аналитик](./certificates/1С_Analysis/)** (ЦК МГТУ им. Н.Э.Баумана)
+                  **[Геймдев](./certificates/Gamedev/)** (ЦК МГТУ им. Н.Э.Баумана); **[1С Аналитик](./certificates/1C_Analysis/)** (ЦК МГТУ им. Н.Э.Баумана)
 
 ---
 
