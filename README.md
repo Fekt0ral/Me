@@ -40,5 +40,5 @@ Python-разработчик / Backend-разработчик в ООО "Вер
 
 ### 📫 Связь
 
-*   **Telegram:** [@Fektor_al](https://t.me/Fektor_al)
+*   **Telegram:** [@Fekt0r_al](https://t.me/Fekt0r_al)
 *   **Email:** [egupov.aleksey@mail.ru](mailto:egupov.aleksey@mail.ru)
